@@ -2,6 +2,6 @@
 Starting my journey with git.
 This must lead to a great journey.
 
-##subheader
+## subheader
 
-lets continue
+lets continue.
